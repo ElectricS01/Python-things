@@ -26,7 +26,7 @@ yn = ['y', 'n']
 gn = ['gun', 'knife']
 mf = ['Meat', 'Food']
 
-print("Made by ElectricS01(Thomas B) electrics01.itch.io")
+print("Made by ElectricS01 electrics01.itch.io")
 
 
 # Do Not Redistribute without permission
